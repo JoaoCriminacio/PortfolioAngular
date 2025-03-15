@@ -3,5 +3,5 @@
   <br>
     Projeto Prático: Portfólio
   <br>
-  https://joaocriminacio.github.io/ProjetoAngular/browser/
+  https://joaocriminacio.github.io/PortfolioAngular/
 </h1>
